@@ -1,0 +1,17 @@
+# Self-hosting on one machine: PostgreSQL + the app.   Usage:  cp .env.example .env  (set SECRET_KEY, POSTGRES_PASSWORD)  &&  docker compose up -d --build
+services:
+  db:
+    image: postgres:16
+    environment: { POSTGRES_DB: businessdetective, POSTGRES_USER: bd, POSTGRES_PASSWORD: "${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD}" }
+    volumes: [dbdata:/var/lib/postgresql/data]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U bd -d businessdetective"], interval: 5s, retries: 10 }
+  app:
+    build: .
+    depends_on: { db: { condition: service_healthy } }
+    environment:
+      APP_ENV: production
+      SECRET_KEY: "${SECRET_KEY:?set SECRET_KEY}"
+      DATABASE_URL: "postgresql+psycopg://bd:${POSTGRES_PASSWORD}@db:5432/businessdetective"
+    volumes: [files:/data/storage]
+    ports: ["8000:8000"]
+volumes: { dbdata: {}, files: {} }

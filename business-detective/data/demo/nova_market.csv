@@ -1,0 +1,961 @@
+date,order_id,product,quantity,selling_price,purchase_cost,supplier,stock,returned
+2026-05-01,1001,Olive Oil 1L,20,900,620.0,Sahel Foods,220,0
+2026-05-02,1002,Olive Oil 1L,21,900,620.0,Sahel Foods,199,1
+2026-05-03,1003,Olive Oil 1L,20,900,620.0,Sahel Foods,179,0
+2026-05-04,1004,Olive Oil 1L,11,900,620.0,Sahel Foods,168,0
+2026-05-05,1005,Olive Oil 1L,14,900,620.0,Sahel Foods,154,2
+2026-05-06,1006,Olive Oil 1L,18,900,620.0,Sahel Foods,136,2
+2026-05-07,1007,Olive Oil 1L,10,900,620.0,Sahel Foods,126,0
+2026-05-08,1008,Olive Oil 1L,6,900,620.0,Sahel Foods,120,0
+2026-05-09,1009,Olive Oil 1L,16,900,620.0,Sahel Foods,104,0
+2026-05-10,1010,Olive Oil 1L,16,900,620.0,Sahel Foods,88,0
+2026-05-11,1011,Olive Oil 1L,16,900,620.0,Sahel Foods,72,0
+2026-05-12,1012,Olive Oil 1L,9,900,620.0,Sahel Foods,63,1
+2026-05-13,1013,Olive Oil 1L,14,900,620.0,Sahel Foods,49,0
+2026-05-14,1014,Olive Oil 1L,17,900,620.0,Sahel Foods,32,0
+2026-05-15,1015,Olive Oil 1L,16,900,620.0,Sahel Foods,376,0
+2026-05-16,1016,Olive Oil 1L,17,900,620.0,Sahel Foods,359,0
+2026-05-17,1017,Olive Oil 1L,14,900,620.0,Sahel Foods,345,1
+2026-05-18,1018,Olive Oil 1L,15,900,620.0,Sahel Foods,330,0
+2026-05-19,1019,Olive Oil 1L,16,900,620.0,Sahel Foods,314,0
+2026-05-20,1020,Olive Oil 1L,11,900,620.0,Sahel Foods,303,0
+2026-05-21,1021,Olive Oil 1L,25,900,620.0,Sahel Foods,278,1
+2026-05-22,1022,Olive Oil 1L,14,900,620.0,Sahel Foods,264,0
+2026-05-23,1023,Olive Oil 1L,11,900,620.0,Sahel Foods,253,1
+2026-05-24,1024,Olive Oil 1L,22,900,620.0,Sahel Foods,231,0
+2026-05-25,1025,Olive Oil 1L,15,900,620.0,Sahel Foods,216,1
+2026-05-26,1026,Olive Oil 1L,16,900,620.0,Sahel Foods,200,0
+2026-05-27,1027,Olive Oil 1L,13,900,620.0,Sahel Foods,187,0
+2026-05-28,1028,Olive Oil 1L,19,900,620.0,Sahel Foods,168,0
+2026-05-29,1029,Olive Oil 1L,14,900,620.0,Sahel Foods,154,0
+2026-05-30,1030,Olive Oil 1L,14,900,620.0,Sahel Foods,140,0
+2026-05-31,1031,Olive Oil 1L,15,900,620.0,Sahel Foods,125,1
+2026-06-01,1032,Olive Oil 1L,12,900,620.0,Sahel Foods,113,0
+2026-06-02,1033,Olive Oil 1L,12,900,620.0,Sahel Foods,101,0
+2026-06-03,1034,Olive Oil 1L,20,900,620.0,Sahel Foods,81,1
+2026-06-04,1035,Olive Oil 1L,18,900,620.0,Sahel Foods,63,0
+2026-06-05,1036,Olive Oil 1L,20,900,620.0,Sahel Foods,43,0
+2026-06-06,1037,Olive Oil 1L,20,900,620.0,Sahel Foods,23,1
+2026-06-07,1038,Olive Oil 1L,12,900,620.0,Sahel Foods,11,0
+2026-06-08,1039,Olive Oil 1L,10,900,620.0,Sahel Foods,361,1
+2026-06-09,1040,Olive Oil 1L,15,900,620.0,Sahel Foods,346,0
+2026-06-10,1041,Olive Oil 1L,22,900,620.0,Sahel Foods,324,2
+2026-06-11,1042,Olive Oil 1L,14,900,620.0,Sahel Foods,310,1
+2026-06-12,1043,Olive Oil 1L,19,900,620.0,Sahel Foods,291,0
+2026-06-13,1044,Olive Oil 1L,22,900,620.0,Sahel Foods,269,1
+2026-06-14,1045,Olive Oil 1L,9,900,620.0,Sahel Foods,260,0
+2026-06-15,1046,Olive Oil 1L,22,900,620.0,Sahel Foods,238,1
+2026-06-16,1047,Olive Oil 1L,16,900,620.0,Sahel Foods,222,0
+2026-06-17,1048,Olive Oil 1L,25,900,620.0,Sahel Foods,197,0
+2026-06-18,1049,Olive Oil 1L,10,900,620.0,Sahel Foods,187,0
+2026-06-19,1050,Olive Oil 1L,10,900,620.0,Sahel Foods,177,0
+2026-06-20,1051,Olive Oil 1L,17,900,620.0,Sahel Foods,160,0
+2026-06-21,1052,Olive Oil 1L,26,900,620.0,Sahel Foods,134,1
+2026-06-22,1053,Olive Oil 1L,15,900,620.0,Sahel Foods,119,0
+2026-06-23,1054,Olive Oil 1L,13,900,620.0,Sahel Foods,106,1
+2026-06-24,1055,Olive Oil 1L,17,900,620.0,Sahel Foods,89,1
+2026-06-25,1056,Olive Oil 1L,14,900,620.0,Sahel Foods,75,0
+2026-06-26,1057,Olive Oil 1L,4,900,620.0,Sahel Foods,71,0
+2026-06-27,1058,Olive Oil 1L,13,900,620.0,Sahel Foods,58,0
+2026-06-28,1059,Olive Oil 1L,11,900,620.0,Sahel Foods,47,0
+2026-06-29,1060,Olive Oil 1L,12,900,620.0,Sahel Foods,35,0
+2026-06-30,1061,Olive Oil 1L,18,900,620.0,Sahel Foods,377,0
+2026-07-01,1062,Olive Oil 1L,10,900,620.0,Sahel Foods,367,0
+2026-07-02,1063,Olive Oil 1L,19,900,620.0,Sahel Foods,348,0
+2026-07-03,1064,Olive Oil 1L,14,900,620.0,Sahel Foods,334,0
+2026-07-04,1065,Olive Oil 1L,20,900,620.0,Sahel Foods,314,1
+2026-07-05,1066,Olive Oil 1L,20,900,620.0,Sahel Foods,294,1
+2026-07-06,1067,Olive Oil 1L,19,900,620.0,Sahel Foods,275,0
+2026-07-07,1068,Olive Oil 1L,16,900,620.0,Sahel Foods,259,0
+2026-07-08,1069,Olive Oil 1L,16,900,620.0,Sahel Foods,243,1
+2026-07-09,1070,Olive Oil 1L,18,900,620.0,Sahel Foods,225,1
+2026-07-10,1071,Olive Oil 1L,11,900,620.0,Sahel Foods,214,0
+2026-07-11,1072,Olive Oil 1L,12,900,620.0,Sahel Foods,202,1
+2026-07-12,1073,Olive Oil 1L,15,900,620.0,Sahel Foods,187,0
+2026-07-13,1074,Olive Oil 1L,16,900,620.0,Sahel Foods,171,0
+2026-07-14,1075,Olive Oil 1L,9,900,620.0,Sahel Foods,162,0
+2026-07-15,1076,Olive Oil 1L,13,900,620.0,Sahel Foods,149,0
+2026-07-16,1077,Olive Oil 1L,10,900,620.0,Sahel Foods,139,0
+2026-07-17,1078,Olive Oil 1L,16,900,620.0,Sahel Foods,123,1
+2026-07-18,1079,Olive Oil 1L,17,900,620.0,Sahel Foods,106,0
+2026-07-19,1080,Olive Oil 1L,19,900,620.0,Sahel Foods,87,0
+2026-07-20,1081,Olive Oil 1L,9,900,620.0,Sahel Foods,78,1
+2026-07-21,1082,Olive Oil 1L,11,900,620.0,Sahel Foods,67,1
+2026-07-22,1083,Olive Oil 1L,15,900,620.0,Sahel Foods,52,0
+2026-07-23,1084,Olive Oil 1L,19,900,620.0,Sahel Foods,33,1
+2026-07-24,1085,Olive Oil 1L,10,900,620.0,Sahel Foods,23,0
+2026-07-25,1086,Olive Oil 1L,44,900,620.0,Sahel Foods,339,0
+2026-07-26,1087,Olive Oil 1L,8,900,620.0,Sahel Foods,331,0
+2026-07-27,1088,Olive Oil 1L,10,900,620.0,Sahel Foods,321,0
+2026-07-28,1089,Olive Oil 1L,9,900,620.0,Sahel Foods,312,0
+2026-07-29,1090,Olive Oil 1L,16,900,620.0,Sahel Foods,296,3
+2026-07-30,1091,Olive Oil 1L,21,900,620.0,Sahel Foods,275,1
+2026-07-31,1092,Olive Oil 1L,15,900,620.0,Sahel Foods,260,0
+2026-08-01,1093,Olive Oil 1L,19,900,620.0,Sahel Foods,241,1
+2026-08-02,1094,Olive Oil 1L,15,900,620.0,Sahel Foods,226,0
+2026-08-03,1095,Olive Oil 1L,14,900,620.0,Sahel Foods,212,0
+2026-08-04,1096,Olive Oil 1L,17,900,620.0,Sahel Foods,195,1
+2026-08-05,1097,Olive Oil 1L,20,900,620.0,Sahel Foods,175,0
+2026-08-06,1098,Olive Oil 1L,9,900,620.0,Sahel Foods,166,0
+2026-08-07,1099,Olive Oil 1L,23,900,620.0,Sahel Foods,143,0
+2026-08-08,1100,Olive Oil 1L,12,900,620.0,Sahel Foods,131,0
+2026-08-09,1101,Olive Oil 1L,19,900,620.0,Sahel Foods,112,1
+2026-08-10,1102,Olive Oil 1L,7,900,620.0,Sahel Foods,105,0
+2026-08-11,1103,Olive Oil 1L,12,900,620.0,Sahel Foods,93,0
+2026-08-12,1104,Olive Oil 1L,13,900,620.0,Sahel Foods,80,2
+2026-08-13,1105,Olive Oil 1L,11,900,620.0,Sahel Foods,69,0
+2026-08-14,1106,Olive Oil 1L,11,900,620.0,Sahel Foods,58,0
+2026-08-15,1107,Olive Oil 1L,11,900,620.0,Sahel Foods,47,1
+2026-08-16,1108,Olive Oil 1L,16,900,620.0,Sahel Foods,31,0
+2026-08-17,1109,Olive Oil 1L,11,900,620.0,Sahel Foods,380,0
+2026-08-18,1110,Olive Oil 1L,14,900,620.0,Sahel Foods,366,0
+2026-08-19,1111,Olive Oil 1L,13,900,620.0,Sahel Foods,353,1
+2026-08-20,1112,Olive Oil 1L,10,900,620.0,Sahel Foods,343,0
+2026-08-21,1113,Olive Oil 1L,12,900,620.0,Sahel Foods,331,0
+2026-08-22,1114,Olive Oil 1L,23,900,620.0,Sahel Foods,308,0
+2026-08-23,1115,Olive Oil 1L,17,900,620.0,Sahel Foods,291,0
+2026-08-24,1116,Olive Oil 1L,14,900,620.0,Sahel Foods,277,1
+2026-08-25,1117,Olive Oil 1L,16,900,620.0,Sahel Foods,261,0
+2026-08-26,1118,Olive Oil 1L,17,900,620.0,Sahel Foods,244,0
+2026-08-27,1119,Olive Oil 1L,17,900,620.0,Sahel Foods,227,1
+2026-08-28,1120,Olive Oil 1L,17,900,620.0,Sahel Foods,210,1
+2026-05-01,1121,Couscous 2kg,15,450,330.0,Sahel Foods,305,0
+2026-05-02,1122,Couscous 2kg,25,450,330.0,Sahel Foods,280,1
+2026-05-03,1123,Couscous 2kg,23,450,330.0,Sahel Foods,257,2
+2026-05-04,1124,Couscous 2kg,17,450,330.0,Sahel Foods,240,0
+2026-05-05,1125,Couscous 2kg,23,450,330.0,Sahel Foods,217,1
+2026-05-06,1126,Couscous 2kg,14,450,330.0,Sahel Foods,203,1
+2026-05-07,1127,Couscous 2kg,10,450,330.0,Sahel Foods,193,0
+2026-05-08,1128,Couscous 2kg,32,450,330.0,Sahel Foods,161,0
+2026-05-09,1129,Couscous 2kg,24,450,330.0,Sahel Foods,137,1
+2026-05-10,1130,Couscous 2kg,13,450,330.0,Sahel Foods,124,0
+2026-05-11,1131,Couscous 2kg,26,450,330.0,Sahel Foods,98,0
+2026-05-12,1132,Couscous 2kg,20,450,330.0,Sahel Foods,78,0
+2026-05-13,1133,Couscous 2kg,19,450,330.0,Sahel Foods,59,0
+2026-05-14,1134,Couscous 2kg,24,450,330.0,Sahel Foods,35,0
+2026-05-15,1135,Couscous 2kg,24,450,330.0,Sahel Foods,11,0
+2026-05-16,1136,Couscous 2kg,25,450,330.0,Sahel Foods,466,1
+2026-05-17,1137,Couscous 2kg,25,450,330.0,Sahel Foods,441,1
+2026-05-18,1138,Couscous 2kg,17,450,330.0,Sahel Foods,424,0
+2026-05-19,1139,Couscous 2kg,21,450,330.0,Sahel Foods,403,0
+2026-05-20,1140,Couscous 2kg,21,450,330.0,Sahel Foods,382,0
+2026-05-21,1141,Couscous 2kg,23,450,330.0,Sahel Foods,359,1
+2026-05-22,1142,Couscous 2kg,25,450,330.0,Sahel Foods,334,1
+2026-05-23,1143,Couscous 2kg,26,450,330.0,Sahel Foods,308,0
+2026-05-24,1144,Couscous 2kg,23,450,330.0,Sahel Foods,285,0
+2026-05-25,1145,Couscous 2kg,17,450,330.0,Sahel Foods,268,0
+2026-05-26,1146,Couscous 2kg,15,450,330.0,Sahel Foods,253,3
+2026-05-27,1147,Couscous 2kg,16,450,330.0,Sahel Foods,237,0
+2026-05-28,1148,Couscous 2kg,24,450,330.0,Sahel Foods,213,0
+2026-05-29,1149,Couscous 2kg,27,450,330.0,Sahel Foods,186,1
+2026-05-30,1150,Couscous 2kg,18,450,330.0,Sahel Foods,168,0
+2026-05-31,1151,Couscous 2kg,20,450,330.0,Sahel Foods,148,1
+2026-06-01,1152,Couscous 2kg,18,450,330.0,Sahel Foods,130,0
+2026-06-02,1153,Couscous 2kg,16,450,330.0,Sahel Foods,114,0
+2026-06-03,1154,Couscous 2kg,16,450,330.0,Sahel Foods,98,1
+2026-06-04,1155,Couscous 2kg,22,450,330.0,Sahel Foods,76,0
+2026-06-05,1156,Couscous 2kg,23,450,330.0,Sahel Foods,53,1
+2026-06-06,1157,Couscous 2kg,19,450,330.0,Sahel Foods,34,0
+2026-06-07,1158,Couscous 2kg,20,450,330.0,Sahel Foods,14,0
+2026-06-08,1159,Couscous 2kg,15,450,330.0,Sahel Foods,479,0
+2026-06-09,1160,Couscous 2kg,10,450,330.0,Sahel Foods,469,0
+2026-06-10,1161,Couscous 2kg,21,450,330.0,Sahel Foods,448,0
+2026-06-11,1162,Couscous 2kg,16,450,330.0,Sahel Foods,432,0
+2026-06-12,1163,Couscous 2kg,29,450,330.0,Sahel Foods,403,1
+2026-06-13,1164,Couscous 2kg,18,450,330.0,Sahel Foods,385,0
+2026-06-14,1165,Couscous 2kg,20,450,330.0,Sahel Foods,365,0
+2026-06-15,1166,Couscous 2kg,20,450,330.0,Sahel Foods,345,0
+2026-06-16,1167,Couscous 2kg,13,450,330.0,Sahel Foods,332,1
+2026-06-17,1168,Couscous 2kg,13,450,330.0,Sahel Foods,319,0
+2026-06-18,1169,Couscous 2kg,17,450,330.0,Sahel Foods,302,0
+2026-06-19,1170,Couscous 2kg,25,450,330.0,Sahel Foods,277,1
+2026-06-20,1171,Couscous 2kg,19,450,330.0,Sahel Foods,258,1
+2026-06-21,1172,Couscous 2kg,27,450,330.0,Sahel Foods,231,0
+2026-06-22,1173,Couscous 2kg,20,450,330.0,Sahel Foods,211,1
+2026-06-23,1174,Couscous 2kg,24,450,330.0,Sahel Foods,187,0
+2026-06-24,1175,Couscous 2kg,19,450,330.0,Sahel Foods,168,0
+2026-06-25,1176,Couscous 2kg,19,450,330.0,Sahel Foods,149,0
+2026-06-26,1177,Couscous 2kg,23,450,330.0,Sahel Foods,126,1
+2026-06-27,1178,Couscous 2kg,24,450,330.0,Sahel Foods,102,0
+2026-06-28,1179,Couscous 2kg,15,450,330.0,Sahel Foods,87,0
+2026-06-29,1180,Couscous 2kg,17,450,330.0,Sahel Foods,70,0
+2026-06-30,1181,Couscous 2kg,24,450,330.0,Sahel Foods,46,1
+2026-07-01,1182,Couscous 2kg,17,450,330.0,Sahel Foods,29,1
+2026-07-02,1183,Couscous 2kg,14,450,330.0,Sahel Foods,495,1
+2026-07-03,1184,Couscous 2kg,23,450,330.0,Sahel Foods,472,0
+2026-07-04,1185,Couscous 2kg,30,450,330.0,Sahel Foods,442,1
+2026-07-05,1186,Couscous 2kg,15,450,330.0,Sahel Foods,427,0
+2026-07-06,1187,Couscous 2kg,18,450,330.0,Sahel Foods,409,0
+2026-07-07,1188,Couscous 2kg,23,450,330.0,Sahel Foods,386,0
+2026-07-08,1189,Couscous 2kg,22,450,330.0,Sahel Foods,364,0
+2026-07-09,1190,Couscous 2kg,20,450,330.0,Sahel Foods,344,1
+2026-07-10,1191,Couscous 2kg,18,450,330.0,Sahel Foods,326,0
+2026-07-11,1192,Couscous 2kg,24,450,330.0,Sahel Foods,302,1
+2026-07-12,1193,Couscous 2kg,23,450,330.0,Sahel Foods,279,0
+2026-07-13,1194,Couscous 2kg,14,450,330.0,Sahel Foods,265,0
+2026-07-14,1195,Couscous 2kg,18,450,330.0,Sahel Foods,247,0
+2026-07-15,1196,Couscous 2kg,15,450,330.0,Sahel Foods,232,0
+2026-07-16,1197,Couscous 2kg,14,450,330.0,Sahel Foods,218,0
+2026-07-17,1198,Couscous 2kg,12,450,330.0,Sahel Foods,206,0
+2026-07-18,1199,Couscous 2kg,17,450,330.0,Sahel Foods,189,0
+2026-07-19,1200,Couscous 2kg,13,450,330.0,Sahel Foods,176,1
+2026-07-20,1201,Couscous 2kg,18,450,330.0,Sahel Foods,158,0
+2026-07-21,1202,Couscous 2kg,19,450,330.0,Sahel Foods,139,1
+2026-07-22,1203,Couscous 2kg,16,450,330.0,Sahel Foods,123,0
+2026-07-23,1204,Couscous 2kg,15,450,330.0,Sahel Foods,108,0
+2026-07-24,1205,Couscous 2kg,18,450,330.0,Sahel Foods,90,0
+2026-07-25,1206,Couscous 2kg,39,450,330.0,Sahel Foods,51,1
+2026-07-26,1207,Couscous 2kg,31,450,330.0,Sahel Foods,20,1
+2026-07-27,1208,Couscous 2kg,16,450,330.0,Sahel Foods,4,1
+2026-07-28,1209,Couscous 2kg,19,450,330.0,Sahel Foods,465,0
+2026-07-29,1210,Couscous 2kg,14,450,330.0,Sahel Foods,451,0
+2026-07-30,1211,Couscous 2kg,13,450,330.0,Sahel Foods,438,1
+2026-07-31,1212,Couscous 2kg,15,450,330.0,Sahel Foods,423,0
+2026-08-01,1213,Couscous 2kg,19,450,330.0,Sahel Foods,404,0
+2026-08-02,1214,Couscous 2kg,21,450,330.0,Sahel Foods,383,0
+2026-08-03,1215,Couscous 2kg,12,450,330.0,Sahel Foods,371,1
+2026-08-04,1216,Couscous 2kg,11,450,330.0,Sahel Foods,360,0
+2026-08-05,1217,Couscous 2kg,8,450,330.0,Sahel Foods,352,0
+2026-08-06,1218,Couscous 2kg,18,450,330.0,Sahel Foods,334,0
+2026-08-07,1219,Couscous 2kg,16,450,330.0,Sahel Foods,318,0
+2026-08-08,1220,Couscous 2kg,24,450,330.0,Sahel Foods,294,0
+2026-08-09,1221,Couscous 2kg,24,450,330.0,Sahel Foods,270,1
+2026-08-10,1222,Couscous 2kg,15,450,330.0,Sahel Foods,255,0
+2026-08-11,1223,Couscous 2kg,24,450,330.0,Sahel Foods,231,0
+2026-08-12,1224,Couscous 2kg,20,450,330.0,Sahel Foods,211,0
+2026-08-13,1225,Couscous 2kg,13,450,330.0,Sahel Foods,198,0
+2026-08-14,1226,Couscous 2kg,16,450,330.0,Sahel Foods,182,0
+2026-08-15,1227,Couscous 2kg,19,450,330.0,Sahel Foods,163,0
+2026-08-16,1228,Couscous 2kg,24,450,330.0,Sahel Foods,139,0
+2026-08-17,1229,Couscous 2kg,21,450,330.0,Sahel Foods,118,1
+2026-08-18,1230,Couscous 2kg,25,450,330.0,Sahel Foods,93,1
+2026-08-19,1231,Couscous 2kg,15,450,330.0,Sahel Foods,78,0
+2026-08-20,1232,Couscous 2kg,13,450,330.0,Sahel Foods,65,0
+2026-08-21,1233,Couscous 2kg,23,450,330.0,Sahel Foods,42,1
+2026-08-22,1234,Couscous 2kg,14,450,330.0,Sahel Foods,28,0
+2026-08-23,1235,Couscous 2kg,30,450,330.0,Sahel Foods,478,2
+2026-08-24,1236,Couscous 2kg,19,450,330.0,Sahel Foods,459,0
+2026-08-25,1237,Couscous 2kg,17,450,330.0,Sahel Foods,442,1
+2026-08-26,1238,Couscous 2kg,13,450,330.0,Sahel Foods,429,0
+2026-08-27,1239,Couscous 2kg,17,450,330.0,Sahel Foods,412,1
+2026-08-28,1240,Couscous 2kg,19,450,330.0,Sahel Foods,393,0
+2026-05-01,1241,Energy Drink,30,180,95.0,Atlas Drinks,370,0
+2026-05-02,1242,Energy Drink,31,180,95.0,Atlas Drinks,339,0
+2026-05-03,1243,Energy Drink,25,180,95.0,Atlas Drinks,314,1
+2026-05-04,1244,Energy Drink,21,180,95.0,Atlas Drinks,293,1
+2026-05-05,1245,Energy Drink,17,180,95.0,Atlas Drinks,276,0
+2026-05-06,1246,Energy Drink,18,180,95.0,Atlas Drinks,258,0
+2026-05-07,1247,Energy Drink,18,180,95.0,Atlas Drinks,240,0
+2026-05-08,1248,Energy Drink,25,180,95.0,Atlas Drinks,215,1
+2026-05-09,1249,Energy Drink,30,180,95.0,Atlas Drinks,185,0
+2026-05-10,1250,Energy Drink,32,180,95.0,Atlas Drinks,153,0
+2026-05-11,1251,Energy Drink,19,180,95.0,Atlas Drinks,134,0
+2026-05-12,1252,Energy Drink,16,180,95.0,Atlas Drinks,118,0
+2026-05-13,1253,Energy Drink,36,180,95.0,Atlas Drinks,82,0
+2026-05-14,1254,Energy Drink,19,180,95.0,Atlas Drinks,63,2
+2026-05-15,1255,Energy Drink,49,180,95.0,Atlas Drinks,414,1
+2026-05-16,1256,Energy Drink,37,180,95.0,Atlas Drinks,377,0
+2026-05-17,1257,Energy Drink,33,180,95.0,Atlas Drinks,344,0
+2026-05-18,1258,Energy Drink,23,180,95.0,Atlas Drinks,321,0
+2026-05-19,1259,Energy Drink,20,180,95.0,Atlas Drinks,301,0
+2026-05-20,1260,Energy Drink,31,180,95.0,Atlas Drinks,270,0
+2026-05-21,1261,Energy Drink,26,180,95.0,Atlas Drinks,244,0
+2026-05-22,1262,Energy Drink,39,180,95.0,Atlas Drinks,205,0
+2026-05-23,1263,Energy Drink,40,180,95.0,Atlas Drinks,165,0
+2026-05-24,1264,Energy Drink,47,180,95.0,Atlas Drinks,118,0
+2026-05-25,1265,Energy Drink,26,180,95.0,Atlas Drinks,92,1
+2026-05-26,1266,Energy Drink,16,180,95.0,Atlas Drinks,76,0
+2026-05-27,1267,Energy Drink,26,180,95.0,Atlas Drinks,450,0
+2026-05-28,1268,Energy Drink,31,180,95.0,Atlas Drinks,419,0
+2026-05-29,1269,Energy Drink,42,180,95.0,Atlas Drinks,377,1
+2026-05-30,1270,Energy Drink,38,180,95.0,Atlas Drinks,339,0
+2026-05-31,1271,Energy Drink,34,180,95.0,Atlas Drinks,305,0
+2026-06-01,1272,Energy Drink,22,180,95.0,Atlas Drinks,283,0
+2026-06-02,1273,Energy Drink,24,180,95.0,Atlas Drinks,259,1
+2026-06-03,1274,Energy Drink,25,180,95.0,Atlas Drinks,234,1
+2026-06-04,1275,Energy Drink,22,180,95.0,Atlas Drinks,212,2
+2026-06-05,1276,Energy Drink,40,180,95.0,Atlas Drinks,172,0
+2026-06-06,1277,Energy Drink,27,180,95.0,Atlas Drinks,145,0
+2026-06-07,1278,Energy Drink,40,180,95.0,Atlas Drinks,105,2
+2026-06-08,1279,Energy Drink,19,180,95.0,Atlas Drinks,86,0
+2026-06-09,1280,Energy Drink,32,180,95.0,Atlas Drinks,54,1
+2026-06-10,1281,Energy Drink,27,180,95.0,Atlas Drinks,427,1
+2026-06-11,1282,Energy Drink,21,180,95.0,Atlas Drinks,406,2
+2026-06-12,1283,Energy Drink,43,180,95.0,Atlas Drinks,363,1
+2026-06-13,1284,Energy Drink,45,180,95.0,Atlas Drinks,318,0
+2026-06-14,1285,Energy Drink,40,180,95.0,Atlas Drinks,278,0
+2026-06-15,1286,Energy Drink,29,180,95.0,Atlas Drinks,249,2
+2026-06-16,1287,Energy Drink,40,180,95.0,Atlas Drinks,209,1
+2026-06-17,1288,Energy Drink,34,180,95.0,Atlas Drinks,175,1
+2026-06-18,1289,Energy Drink,24,180,95.0,Atlas Drinks,151,0
+2026-06-19,1290,Energy Drink,44,180,95.0,Atlas Drinks,107,0
+2026-06-20,1291,Energy Drink,32,180,95.0,Atlas Drinks,75,1
+2026-06-21,1292,Energy Drink,34,180,95.0,Atlas Drinks,41,2
+2026-06-22,1293,Energy Drink,33,180,95.0,Atlas Drinks,408,2
+2026-06-23,1294,Energy Drink,23,180,95.0,Atlas Drinks,385,1
+2026-06-24,1295,Energy Drink,30,180,95.0,Atlas Drinks,355,0
+2026-06-25,1296,Energy Drink,28,180,95.0,Atlas Drinks,327,0
+2026-06-26,1297,Energy Drink,57,180,95.0,Atlas Drinks,270,0
+2026-06-27,1298,Energy Drink,41,180,95.0,Atlas Drinks,229,0
+2026-06-28,1299,Energy Drink,48,180,95.0,Atlas Drinks,181,1
+2026-06-29,1300,Energy Drink,24,180,95.0,Atlas Drinks,157,0
+2026-06-30,1301,Energy Drink,27,180,95.0,Atlas Drinks,130,2
+2026-07-01,1302,Energy Drink,25,180,95.0,Atlas Drinks,105,0
+2026-07-02,1303,Energy Drink,37,180,95.0,Atlas Drinks,68,1
+2026-07-03,1304,Energy Drink,56,180,95.0,Atlas Drinks,12,0
+2026-07-04,1305,Energy Drink,65,180,95.0,Atlas Drinks,347,0
+2026-07-05,1306,Energy Drink,41,180,95.0,Atlas Drinks,306,1
+2026-07-06,1307,Energy Drink,31,180,95.0,Atlas Drinks,275,0
+2026-07-07,1308,Energy Drink,31,180,95.0,Atlas Drinks,244,1
+2026-07-08,1309,Energy Drink,32,180,95.0,Atlas Drinks,212,1
+2026-07-09,1310,Energy Drink,28,180,95.0,Atlas Drinks,184,0
+2026-07-10,1311,Energy Drink,50,180,95.0,Atlas Drinks,134,1
+2026-07-11,1312,Energy Drink,54,180,95.0,Atlas Drinks,80,1
+2026-07-12,1313,Energy Drink,55,180,95.0,Atlas Drinks,25,1
+2026-07-13,1314,Energy Drink,25,180,95.0,Atlas Drinks,0,1
+2026-07-14,1315,Energy Drink,31,180,95.0,Atlas Drinks,369,0
+2026-07-15,1316,Energy Drink,41,180,95.0,Atlas Drinks,328,1
+2026-07-16,1317,Energy Drink,30,180,95.0,Atlas Drinks,298,2
+2026-07-17,1318,Energy Drink,53,180,95.0,Atlas Drinks,245,1
+2026-07-18,1319,Energy Drink,35,180,95.0,Atlas Drinks,210,0
+2026-07-19,1320,Energy Drink,48,180,95.0,Atlas Drinks,162,1
+2026-07-20,1321,Energy Drink,29,180,95.0,Atlas Drinks,133,0
+2026-07-21,1322,Energy Drink,30,180,95.0,Atlas Drinks,103,0
+2026-07-22,1323,Energy Drink,40,180,95.0,Atlas Drinks,63,0
+2026-07-23,1324,Energy Drink,37,180,95.0,Atlas Drinks,26,2
+2026-07-24,1325,Energy Drink,40,180,95.0,Atlas Drinks,386,1
+2026-07-25,1326,Energy Drink,119,180,95.0,Atlas Drinks,267,2
+2026-07-26,1327,Energy Drink,48,180,95.0,Atlas Drinks,219,1
+2026-07-27,1328,Energy Drink,40,180,95.0,Atlas Drinks,179,1
+2026-07-28,1329,Energy Drink,38,180,95.0,Atlas Drinks,141,2
+2026-07-29,1330,Energy Drink,35,180,95.0,Atlas Drinks,106,1
+2026-07-30,1331,Energy Drink,41,180,95.0,Atlas Drinks,65,1
+2026-07-31,1332,Energy Drink,47,180,95.0,Atlas Drinks,18,0
+2026-08-01,1333,Energy Drink,56,180,95.0,Atlas Drinks,362,3
+2026-08-02,1334,Energy Drink,51,180,95.0,Atlas Drinks,311,1
+2026-08-03,1335,Energy Drink,34,180,95.0,Atlas Drinks,277,1
+2026-08-04,1336,Energy Drink,30,180,95.0,Atlas Drinks,247,0
+2026-08-05,1337,Energy Drink,42,180,95.0,Atlas Drinks,205,0
+2026-08-06,1338,Energy Drink,33,180,95.0,Atlas Drinks,172,1
+2026-08-07,1339,Energy Drink,57,180,95.0,Atlas Drinks,115,1
+2026-08-08,1340,Energy Drink,54,180,95.0,Atlas Drinks,61,2
+2026-08-09,1341,Energy Drink,61,180,95.0,Atlas Drinks,0,2
+2026-08-10,1342,Energy Drink,31,180,95.0,Atlas Drinks,369,1
+2026-08-11,1343,Energy Drink,32,180,95.0,Atlas Drinks,337,1
+2026-08-12,1344,Energy Drink,36,180,95.0,Atlas Drinks,301,1
+2026-08-13,1345,Energy Drink,44,180,95.0,Atlas Drinks,257,0
+2026-08-14,1346,Energy Drink,68,180,95.0,Atlas Drinks,189,0
+2026-08-15,1347,Energy Drink,57,180,95.0,Atlas Drinks,132,1
+2026-08-16,1348,Energy Drink,61,180,95.0,Atlas Drinks,71,2
+2026-08-17,1349,Energy Drink,29,180,95.0,Atlas Drinks,42,0
+2026-08-18,1350,Energy Drink,36,180,95.0,Atlas Drinks,6,0
+2026-08-19,1351,Energy Drink,32,180,95.0,Atlas Drinks,374,0
+2026-08-20,1352,Energy Drink,48,180,95.0,Atlas Drinks,326,0
+2026-08-21,1353,Energy Drink,46,180,95.0,Atlas Drinks,280,0
+2026-08-22,1354,Energy Drink,74,180,95.0,Atlas Drinks,206,0
+2026-08-23,1355,Energy Drink,57,180,95.0,Atlas Drinks,149,2
+2026-08-24,1356,Energy Drink,25,180,95.0,Atlas Drinks,124,2
+2026-08-25,1357,Energy Drink,35,180,95.0,Atlas Drinks,89,1
+2026-08-26,1358,Energy Drink,30,180,95.0,Atlas Drinks,59,3
+2026-08-27,1359,Energy Drink,39,180,95.0,Atlas Drinks,20,2
+2026-08-28,1360,Energy Drink,73,180,95.0,Atlas Drinks,347,1
+2026-05-01,1361,Premium Coffee,7,1900,1350.0,Aroma Import,83,1
+2026-05-02,1362,Premium Coffee,11,1900,1350.0,Aroma Import,72,0
+2026-05-03,1363,Premium Coffee,3,1900,1350.0,Aroma Import,69,0
+2026-05-04,1364,Premium Coffee,6,1900,1350.0,Aroma Import,63,1
+2026-05-05,1365,Premium Coffee,6,1900,1350.0,Aroma Import,57,0
+2026-05-06,1366,Premium Coffee,8,1900,1350.0,Aroma Import,49,0
+2026-05-07,1367,Premium Coffee,12,1900,1350.0,Aroma Import,37,0
+2026-05-08,1368,Premium Coffee,8,1900,1350.0,Aroma Import,29,0
+2026-05-09,1369,Premium Coffee,9,1900,1350.0,Aroma Import,20,1
+2026-05-10,1370,Premium Coffee,9,1900,1350.0,Aroma Import,11,0
+2026-05-11,1371,Premium Coffee,11,1900,1350.0,Aroma Import,0,0
+2026-05-12,1372,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-05-13,1373,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-05-14,1374,Premium Coffee,13,1900,1350.0,Aroma Import,77,0
+2026-05-15,1375,Premium Coffee,10,1900,1350.0,Aroma Import,67,0
+2026-05-16,1376,Premium Coffee,15,1900,1350.0,Aroma Import,52,0
+2026-05-17,1377,Premium Coffee,11,1900,1350.0,Aroma Import,41,1
+2026-05-18,1378,Premium Coffee,8,1900,1350.0,Aroma Import,33,0
+2026-05-19,1379,Premium Coffee,10,1900,1350.0,Aroma Import,23,1
+2026-05-20,1380,Premium Coffee,9,1900,1350.0,Aroma Import,14,0
+2026-05-21,1381,Premium Coffee,10,1900,1350.0,Aroma Import,4,0
+2026-05-22,1382,Premium Coffee,4,1900,1350.0,Aroma Import,0,0
+2026-05-23,1383,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-05-24,1384,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-05-25,1385,Premium Coffee,12,1900,1350.0,Aroma Import,78,0
+2026-05-26,1386,Premium Coffee,9,1900,1350.0,Aroma Import,69,0
+2026-05-27,1387,Premium Coffee,10,1900,1350.0,Aroma Import,59,0
+2026-05-28,1388,Premium Coffee,8,1900,1350.0,Aroma Import,51,0
+2026-05-29,1389,Premium Coffee,11,1900,1350.0,Aroma Import,40,0
+2026-05-30,1390,Premium Coffee,17,1900,1350.0,Aroma Import,23,0
+2026-05-31,1391,Premium Coffee,10,1900,1350.0,Aroma Import,13,0
+2026-06-01,1392,Premium Coffee,10,1900,1350.0,Aroma Import,3,0
+2026-06-02,1393,Premium Coffee,3,1900,1350.0,Aroma Import,0,0
+2026-06-03,1394,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-06-04,1395,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-06-05,1396,Premium Coffee,7,1900,1350.0,Aroma Import,83,0
+2026-06-06,1397,Premium Coffee,14,1900,1350.0,Aroma Import,69,2
+2026-06-07,1398,Premium Coffee,4,1900,1350.0,Aroma Import,65,0
+2026-06-08,1399,Premium Coffee,10,1900,1350.0,Aroma Import,55,0
+2026-06-09,1400,Premium Coffee,5,1900,1350.0,Aroma Import,50,0
+2026-06-10,1401,Premium Coffee,6,1900,1350.0,Aroma Import,44,0
+2026-06-11,1402,Premium Coffee,11,1900,1350.0,Aroma Import,33,1
+2026-06-12,1403,Premium Coffee,10,1900,1350.0,Aroma Import,23,0
+2026-06-13,1404,Premium Coffee,9,1900,1350.0,Aroma Import,14,0
+2026-06-14,1405,Premium Coffee,6,1900,1350.0,Aroma Import,8,0
+2026-06-15,1406,Premium Coffee,8,1900,1350.0,Aroma Import,0,0
+2026-06-16,1407,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-06-17,1408,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-06-18,1409,Premium Coffee,7,1900,1350.0,Aroma Import,83,0
+2026-06-19,1410,Premium Coffee,10,1900,1350.0,Aroma Import,73,0
+2026-06-20,1411,Premium Coffee,10,1900,1350.0,Aroma Import,63,0
+2026-06-21,1412,Premium Coffee,13,1900,1350.0,Aroma Import,50,0
+2026-06-22,1413,Premium Coffee,4,1900,1350.0,Aroma Import,46,0
+2026-06-23,1414,Premium Coffee,7,1900,1350.0,Aroma Import,39,0
+2026-06-24,1415,Premium Coffee,10,1900,1350.0,Aroma Import,29,1
+2026-06-25,1416,Premium Coffee,10,1900,1350.0,Aroma Import,19,0
+2026-06-26,1417,Premium Coffee,7,1900,1350.0,Aroma Import,12,1
+2026-06-27,1418,Premium Coffee,8,1900,1350.0,Aroma Import,4,0
+2026-06-28,1419,Premium Coffee,4,1900,1350.0,Aroma Import,0,0
+2026-06-29,1420,Premium Coffee,0,1900,1350.0,Aroma Import,0,0
+2026-06-30,1421,Premium Coffee,7,1900,1350.0,Aroma Import,83,2
+2026-07-01,1422,Premium Coffee,6,1900,1350.0,Aroma Import,77,0
+2026-07-02,1423,Premium Coffee,8,1900,1350.0,Aroma Import,69,0
+2026-07-03,1424,Premium Coffee,13,1900,1350.0,Aroma Import,56,0
+2026-07-04,1425,Premium Coffee,10,1900,1350.0,Aroma Import,46,0
+2026-07-05,1426,Premium Coffee,7,1900,1353.4,Aroma Import,39,0
+2026-07-06,1427,Premium Coffee,7,1900,1356.7,Aroma Import,32,0
+2026-07-07,1428,Premium Coffee,10,1900,1360.1,Aroma Import,22,0
+2026-07-08,1429,Premium Coffee,12,1900,1363.5,Aroma Import,10,0
+2026-07-09,1430,Premium Coffee,4,1900,1366.9,Aroma Import,6,0
+2026-07-10,1431,Premium Coffee,5,1900,1370.2,Aroma Import,1,0
+2026-07-11,1432,Premium Coffee,1,1900,1373.6,Aroma Import,0,0
+2026-07-12,1433,Premium Coffee,0,1900,1377.0,Aroma Import,0,0
+2026-07-13,1434,Premium Coffee,11,1900,1380.4,Aroma Import,79,1
+2026-07-14,1435,Premium Coffee,6,1900,1383.7,Aroma Import,73,1
+2026-07-15,1436,Premium Coffee,5,1900,1387.1,Aroma Import,68,0
+2026-07-16,1437,Premium Coffee,10,1900,1390.5,Aroma Import,58,0
+2026-07-17,1438,Premium Coffee,10,1900,1393.9,Aroma Import,48,0
+2026-07-18,1439,Premium Coffee,19,1900,1397.2,Aroma Import,29,0
+2026-07-19,1440,Premium Coffee,17,1900,1400.6,Aroma Import,12,1
+2026-07-20,1441,Premium Coffee,10,1900,1404.0,Aroma Import,2,0
+2026-07-21,1442,Premium Coffee,2,1900,1407.4,Aroma Import,0,0
+2026-07-22,1443,Premium Coffee,0,1900,1410.8,Aroma Import,0,0
+2026-07-23,1444,Premium Coffee,0,1900,1414.1,Aroma Import,0,0
+2026-07-24,1445,Premium Coffee,16,1900,1417.5,Aroma Import,74,1
+2026-07-25,1446,Premium Coffee,30,1900,1420.9,Aroma Import,44,0
+2026-07-26,1447,Premium Coffee,9,1900,1424.2,Aroma Import,35,0
+2026-07-27,1448,Premium Coffee,10,1900,1427.6,Aroma Import,25,0
+2026-07-28,1449,Premium Coffee,12,1900,1431.0,Aroma Import,13,0
+2026-07-29,1450,Premium Coffee,13,1900,1434.4,Aroma Import,0,0
+2026-07-30,1451,Premium Coffee,0,1900,1437.8,Aroma Import,0,0
+2026-07-31,1452,Premium Coffee,0,1900,1441.1,Aroma Import,0,0
+2026-08-01,1453,Premium Coffee,0,1900,1444.5,Aroma Import,0,0
+2026-08-02,1454,Premium Coffee,12,1900,1447.9,Aroma Import,78,0
+2026-08-03,1455,Premium Coffee,9,1900,1451.2,Aroma Import,69,0
+2026-08-04,1456,Premium Coffee,11,1900,1454.6,Aroma Import,58,0
+2026-08-05,1457,Premium Coffee,14,1900,1458.0,Aroma Import,44,0
+2026-08-06,1458,Premium Coffee,6,1900,1461.4,Aroma Import,38,1
+2026-08-07,1459,Premium Coffee,11,1900,1464.8,Aroma Import,27,0
+2026-08-08,1460,Premium Coffee,9,1900,1468.1,Aroma Import,18,1
+2026-08-09,1461,Premium Coffee,6,1900,1471.5,Aroma Import,12,0
+2026-08-10,1462,Premium Coffee,12,1900,1474.9,Aroma Import,0,0
+2026-08-11,1463,Premium Coffee,0,1900,1478.2,Aroma Import,0,0
+2026-08-12,1464,Premium Coffee,0,1900,1481.6,Aroma Import,0,0
+2026-08-13,1465,Premium Coffee,7,1900,1485.0,Aroma Import,83,0
+2026-08-14,1466,Premium Coffee,9,1900,1488.4,Aroma Import,74,0
+2026-08-15,1467,Premium Coffee,12,1900,1491.8,Aroma Import,62,0
+2026-08-16,1468,Premium Coffee,13,1900,1495.1,Aroma Import,49,0
+2026-08-17,1469,Premium Coffee,6,1900,1498.5,Aroma Import,43,0
+2026-08-18,1470,Premium Coffee,9,1900,1501.9,Aroma Import,34,0
+2026-08-19,1471,Premium Coffee,11,1900,1505.2,Aroma Import,23,0
+2026-08-20,1472,Premium Coffee,7,1900,1508.6,Aroma Import,16,0
+2026-08-21,1473,Premium Coffee,13,1900,1512.0,Aroma Import,3,0
+2026-08-22,1474,Premium Coffee,3,1900,1515.4,Aroma Import,0,0
+2026-08-23,1475,Premium Coffee,0,1900,1518.8,Aroma Import,0,0
+2026-08-24,1476,Premium Coffee,0,1900,1522.1,Aroma Import,0,0
+2026-08-25,1477,Premium Coffee,7,1900,1525.5,Aroma Import,83,0
+2026-08-26,1478,Premium Coffee,11,1900,1528.9,Aroma Import,72,0
+2026-08-27,1479,Premium Coffee,12,1900,1532.2,Aroma Import,60,1
+2026-08-28,1480,Premium Coffee,15,1900,1535.6,Aroma Import,45,1
+2026-05-01,1481,Bottled Water 6x,29,260,200.0,Atlas Drinks,491,0
+2026-05-02,1482,Bottled Water 6x,22,260,200.0,Atlas Drinks,469,0
+2026-05-03,1483,Bottled Water 6x,33,260,200.0,Atlas Drinks,436,2
+2026-05-04,1484,Bottled Water 6x,29,260,200.0,Atlas Drinks,407,0
+2026-05-05,1485,Bottled Water 6x,17,260,200.0,Atlas Drinks,390,0
+2026-05-06,1486,Bottled Water 6x,23,260,200.0,Atlas Drinks,367,0
+2026-05-07,1487,Bottled Water 6x,28,260,200.0,Atlas Drinks,339,1
+2026-05-08,1488,Bottled Water 6x,29,260,200.0,Atlas Drinks,310,0
+2026-05-09,1489,Bottled Water 6x,25,260,200.0,Atlas Drinks,285,0
+2026-05-10,1490,Bottled Water 6x,30,260,200.0,Atlas Drinks,255,0
+2026-05-11,1491,Bottled Water 6x,17,260,200.0,Atlas Drinks,238,1
+2026-05-12,1492,Bottled Water 6x,26,260,200.0,Atlas Drinks,212,0
+2026-05-13,1493,Bottled Water 6x,31,260,200.0,Atlas Drinks,181,1
+2026-05-14,1494,Bottled Water 6x,24,260,200.0,Atlas Drinks,157,0
+2026-05-15,1495,Bottled Water 6x,38,260,200.0,Atlas Drinks,119,0
+2026-05-16,1496,Bottled Water 6x,24,260,200.0,Atlas Drinks,95,1
+2026-05-17,1497,Bottled Water 6x,28,260,200.0,Atlas Drinks,67,0
+2026-05-18,1498,Bottled Water 6x,22,260,200.0,Atlas Drinks,825,0
+2026-05-19,1499,Bottled Water 6x,36,260,200.0,Atlas Drinks,789,1
+2026-05-20,1500,Bottled Water 6x,30,260,200.0,Atlas Drinks,759,1
+2026-05-21,1501,Bottled Water 6x,20,260,200.0,Atlas Drinks,739,1
+2026-05-22,1502,Bottled Water 6x,33,260,200.0,Atlas Drinks,706,2
+2026-05-23,1503,Bottled Water 6x,36,260,200.0,Atlas Drinks,670,1
+2026-05-24,1504,Bottled Water 6x,31,260,200.0,Atlas Drinks,639,0
+2026-05-25,1505,Bottled Water 6x,25,260,200.0,Atlas Drinks,614,0
+2026-05-26,1506,Bottled Water 6x,29,260,200.0,Atlas Drinks,585,0
+2026-05-27,1507,Bottled Water 6x,20,260,200.0,Atlas Drinks,565,0
+2026-05-28,1508,Bottled Water 6x,22,260,200.0,Atlas Drinks,543,1
+2026-05-29,1509,Bottled Water 6x,33,260,200.0,Atlas Drinks,510,1
+2026-05-30,1510,Bottled Water 6x,19,260,200.0,Atlas Drinks,491,1
+2026-05-31,1511,Bottled Water 6x,30,260,200.0,Atlas Drinks,461,0
+2026-06-01,1512,Bottled Water 6x,25,260,200.0,Atlas Drinks,436,1
+2026-06-02,1513,Bottled Water 6x,23,260,200.0,Atlas Drinks,413,0
+2026-06-03,1514,Bottled Water 6x,25,260,200.0,Atlas Drinks,388,1
+2026-06-04,1515,Bottled Water 6x,26,260,200.0,Atlas Drinks,362,2
+2026-06-05,1516,Bottled Water 6x,32,260,200.0,Atlas Drinks,330,1
+2026-06-06,1517,Bottled Water 6x,27,260,200.0,Atlas Drinks,303,0
+2026-06-07,1518,Bottled Water 6x,33,260,200.0,Atlas Drinks,270,0
+2026-06-08,1519,Bottled Water 6x,27,260,200.0,Atlas Drinks,243,0
+2026-06-09,1520,Bottled Water 6x,20,260,200.0,Atlas Drinks,223,0
+2026-06-10,1521,Bottled Water 6x,25,260,200.0,Atlas Drinks,198,1
+2026-06-11,1522,Bottled Water 6x,30,260,200.0,Atlas Drinks,168,0
+2026-06-12,1523,Bottled Water 6x,28,260,200.0,Atlas Drinks,140,0
+2026-06-13,1524,Bottled Water 6x,38,260,200.0,Atlas Drinks,102,0
+2026-06-14,1525,Bottled Water 6x,22,260,200.0,Atlas Drinks,80,0
+2026-06-15,1526,Bottled Water 6x,30,260,200.0,Atlas Drinks,830,0
+2026-06-16,1527,Bottled Water 6x,27,260,200.0,Atlas Drinks,803,1
+2026-06-17,1528,Bottled Water 6x,15,260,200.0,Atlas Drinks,788,0
+2026-06-18,1529,Bottled Water 6x,23,260,200.0,Atlas Drinks,765,1
+2026-06-19,1530,Bottled Water 6x,35,260,200.0,Atlas Drinks,730,2
+2026-06-20,1531,Bottled Water 6x,37,260,200.0,Atlas Drinks,693,0
+2026-06-21,1532,Bottled Water 6x,27,260,200.0,Atlas Drinks,666,0
+2026-06-22,1533,Bottled Water 6x,32,260,200.0,Atlas Drinks,634,0
+2026-06-23,1534,Bottled Water 6x,29,260,200.0,Atlas Drinks,605,0
+2026-06-24,1535,Bottled Water 6x,24,260,200.0,Atlas Drinks,581,0
+2026-06-25,1536,Bottled Water 6x,16,260,200.0,Atlas Drinks,565,0
+2026-06-26,1537,Bottled Water 6x,32,260,200.0,Atlas Drinks,533,0
+2026-06-27,1538,Bottled Water 6x,32,260,200.0,Atlas Drinks,501,0
+2026-06-28,1539,Bottled Water 6x,26,260,200.0,Atlas Drinks,475,3
+2026-06-29,1540,Bottled Water 6x,24,260,200.0,Atlas Drinks,451,2
+2026-06-30,1541,Bottled Water 6x,27,260,200.0,Atlas Drinks,424,0
+2026-07-01,1542,Bottled Water 6x,24,260,200.0,Atlas Drinks,400,0
+2026-07-02,1543,Bottled Water 6x,29,260,200.0,Atlas Drinks,371,1
+2026-07-03,1544,Bottled Water 6x,22,260,200.0,Atlas Drinks,349,0
+2026-07-04,1545,Bottled Water 6x,39,260,200.0,Atlas Drinks,310,0
+2026-07-05,1546,Bottled Water 6x,27,260,200.0,Atlas Drinks,283,1
+2026-07-06,1547,Bottled Water 6x,23,260,200.0,Atlas Drinks,260,0
+2026-07-07,1548,Bottled Water 6x,23,260,200.0,Atlas Drinks,237,0
+2026-07-08,1549,Bottled Water 6x,24,260,200.0,Atlas Drinks,213,0
+2026-07-09,1550,Bottled Water 6x,21,260,200.0,Atlas Drinks,192,0
+2026-07-10,1551,Bottled Water 6x,29,260,200.0,Atlas Drinks,163,1
+2026-07-11,1552,Bottled Water 6x,23,260,200.0,Atlas Drinks,140,1
+2026-07-12,1553,Bottled Water 6x,22,260,200.0,Atlas Drinks,118,0
+2026-07-13,1554,Bottled Water 6x,26,260,200.0,Atlas Drinks,92,1
+2026-07-14,1555,Bottled Water 6x,18,260,200.0,Atlas Drinks,854,0
+2026-07-15,1556,Bottled Water 6x,28,260,200.0,Atlas Drinks,826,0
+2026-07-16,1557,Bottled Water 6x,28,260,200.0,Atlas Drinks,798,1
+2026-07-17,1558,Bottled Water 6x,24,260,200.0,Atlas Drinks,774,0
+2026-07-18,1559,Bottled Water 6x,31,260,200.0,Atlas Drinks,743,0
+2026-07-19,1560,Bottled Water 6x,34,260,200.0,Atlas Drinks,709,1
+2026-07-20,1561,Bottled Water 6x,19,260,200.0,Atlas Drinks,690,1
+2026-07-21,1562,Bottled Water 6x,19,260,200.0,Atlas Drinks,671,1
+2026-07-22,1563,Bottled Water 6x,25,260,200.0,Atlas Drinks,646,0
+2026-07-23,1564,Bottled Water 6x,29,260,200.0,Atlas Drinks,617,0
+2026-07-24,1565,Bottled Water 6x,23,260,200.0,Atlas Drinks,594,0
+2026-07-25,1566,Bottled Water 6x,74,260,200.0,Atlas Drinks,520,2
+2026-07-26,1567,Bottled Water 6x,24,260,200.0,Atlas Drinks,496,1
+2026-07-27,1568,Bottled Water 6x,35,260,200.0,Atlas Drinks,461,2
+2026-07-28,1569,Bottled Water 6x,28,260,200.0,Atlas Drinks,433,0
+2026-07-29,1570,Bottled Water 6x,23,260,200.0,Atlas Drinks,410,0
+2026-07-30,1571,Bottled Water 6x,24,260,200.0,Atlas Drinks,386,0
+2026-07-31,1572,Bottled Water 6x,27,260,200.0,Atlas Drinks,359,1
+2026-08-01,1573,Bottled Water 6x,34,260,200.0,Atlas Drinks,325,1
+2026-08-02,1574,Bottled Water 6x,31,260,200.0,Atlas Drinks,294,0
+2026-08-03,1575,Bottled Water 6x,20,260,200.0,Atlas Drinks,274,2
+2026-08-04,1576,Bottled Water 6x,31,260,200.0,Atlas Drinks,243,1
+2026-08-05,1577,Bottled Water 6x,26,260,200.0,Atlas Drinks,217,0
+2026-08-06,1578,Bottled Water 6x,24,260,200.0,Atlas Drinks,193,0
+2026-08-07,1579,Bottled Water 6x,32,260,200.0,Atlas Drinks,161,1
+2026-08-08,1580,Bottled Water 6x,34,260,200.0,Atlas Drinks,127,3
+2026-08-09,1581,Bottled Water 6x,31,260,200.0,Atlas Drinks,96,0
+2026-08-10,1582,Bottled Water 6x,18,260,200.0,Atlas Drinks,78,1
+2026-08-11,1583,Bottled Water 6x,32,260,200.0,Atlas Drinks,826,0
+2026-08-12,1584,Bottled Water 6x,28,260,200.0,Atlas Drinks,798,1
+2026-08-13,1585,Bottled Water 6x,28,260,200.0,Atlas Drinks,770,0
+2026-08-14,1586,Bottled Water 6x,35,260,200.0,Atlas Drinks,735,0
+2026-08-15,1587,Bottled Water 6x,24,260,200.0,Atlas Drinks,711,0
+2026-08-16,1588,Bottled Water 6x,28,260,200.0,Atlas Drinks,683,2
+2026-08-17,1589,Bottled Water 6x,21,260,200.0,Atlas Drinks,662,0
+2026-08-18,1590,Bottled Water 6x,30,260,200.0,Atlas Drinks,632,0
+2026-08-19,1591,Bottled Water 6x,27,260,200.0,Atlas Drinks,605,0
+2026-08-20,1592,Bottled Water 6x,20,260,200.0,Atlas Drinks,585,1
+2026-08-21,1593,Bottled Water 6x,30,260,200.0,Atlas Drinks,555,1
+2026-08-22,1594,Bottled Water 6x,25,260,200.0,Atlas Drinks,530,0
+2026-08-23,1595,Bottled Water 6x,30,260,200.0,Atlas Drinks,500,1
+2026-08-24,1596,Bottled Water 6x,24,260,200.0,Atlas Drinks,476,1
+2026-08-25,1597,Bottled Water 6x,29,260,200.0,Atlas Drinks,447,2
+2026-08-26,1598,Bottled Water 6x,25,260,200.0,Atlas Drinks,422,0
+2026-08-27,1599,Bottled Water 6x,27,260,200.0,Atlas Drinks,395,0
+2026-08-28,1600,Bottled Water 6x,27,260,200.0,Atlas Drinks,368,0
+2026-05-01,1601,Detergent 3kg,10,1100,700.0,CleanCo,150,1
+2026-05-02,1602,Detergent 3kg,10,1100,700.0,CleanCo,140,0
+2026-05-03,1603,Detergent 3kg,6,1100,700.0,CleanCo,134,0
+2026-05-04,1604,Detergent 3kg,7,1100,700.0,CleanCo,127,1
+2026-05-05,1605,Detergent 3kg,2,1100,700.0,CleanCo,125,0
+2026-05-06,1606,Detergent 3kg,6,1100,700.0,CleanCo,119,1
+2026-05-07,1607,Detergent 3kg,7,1100,700.0,CleanCo,112,0
+2026-05-08,1608,Detergent 3kg,4,1100,700.0,CleanCo,108,0
+2026-05-09,1609,Detergent 3kg,5,1100,700.0,CleanCo,103,1
+2026-05-10,1610,Detergent 3kg,13,1100,700.0,CleanCo,90,0
+2026-05-11,1611,Detergent 3kg,4,1100,700.0,CleanCo,86,0
+2026-05-12,1612,Detergent 3kg,8,1100,700.0,CleanCo,78,0
+2026-05-13,1613,Detergent 3kg,5,1100,700.0,CleanCo,73,0
+2026-05-14,1614,Detergent 3kg,15,1100,700.0,CleanCo,58,0
+2026-05-15,1615,Detergent 3kg,11,1100,700.0,CleanCo,47,0
+2026-05-16,1616,Detergent 3kg,6,1100,700.0,CleanCo,41,0
+2026-05-17,1617,Detergent 3kg,7,1100,700.0,CleanCo,34,0
+2026-05-18,1618,Detergent 3kg,7,1100,700.0,CleanCo,27,1
+2026-05-19,1619,Detergent 3kg,11,1100,700.0,CleanCo,16,1
+2026-05-20,1620,Detergent 3kg,8,1100,700.0,CleanCo,8,0
+2026-05-21,1621,Detergent 3kg,4,1100,700.0,CleanCo,244,0
+2026-05-22,1622,Detergent 3kg,7,1100,700.0,CleanCo,237,0
+2026-05-23,1623,Detergent 3kg,7,1100,700.0,CleanCo,230,0
+2026-05-24,1624,Detergent 3kg,13,1100,700.0,CleanCo,217,0
+2026-05-25,1625,Detergent 3kg,6,1100,700.0,CleanCo,211,0
+2026-05-26,1626,Detergent 3kg,13,1100,700.0,CleanCo,198,1
+2026-05-27,1627,Detergent 3kg,4,1100,700.0,CleanCo,194,0
+2026-05-28,1628,Detergent 3kg,7,1100,700.0,CleanCo,187,0
+2026-05-29,1629,Detergent 3kg,8,1100,700.0,CleanCo,179,0
+2026-05-30,1630,Detergent 3kg,7,1100,700.0,CleanCo,172,0
+2026-05-31,1631,Detergent 3kg,10,1100,700.0,CleanCo,162,0
+2026-06-01,1632,Detergent 3kg,8,1100,700.0,CleanCo,154,0
+2026-06-02,1633,Detergent 3kg,5,1100,700.0,CleanCo,149,0
+2026-06-03,1634,Detergent 3kg,12,1100,700.0,CleanCo,137,0
+2026-06-04,1635,Detergent 3kg,6,1100,700.0,CleanCo,131,1
+2026-06-05,1636,Detergent 3kg,5,1100,700.0,CleanCo,126,0
+2026-06-06,1637,Detergent 3kg,6,1100,700.0,CleanCo,120,0
+2026-06-07,1638,Detergent 3kg,9,1100,700.0,CleanCo,111,1
+2026-06-08,1639,Detergent 3kg,5,1100,700.0,CleanCo,106,0
+2026-06-09,1640,Detergent 3kg,3,1100,700.0,CleanCo,103,0
+2026-06-10,1641,Detergent 3kg,6,1100,700.0,CleanCo,97,1
+2026-06-11,1642,Detergent 3kg,4,1100,700.0,CleanCo,93,0
+2026-06-12,1643,Detergent 3kg,5,1100,700.0,CleanCo,88,0
+2026-06-13,1644,Detergent 3kg,14,1100,700.0,CleanCo,74,0
+2026-06-14,1645,Detergent 3kg,8,1100,700.0,CleanCo,66,1
+2026-06-15,1646,Detergent 3kg,7,1100,700.0,CleanCo,59,0
+2026-06-16,1647,Detergent 3kg,3,1100,700.0,CleanCo,56,0
+2026-06-17,1648,Detergent 3kg,8,1100,700.0,CleanCo,48,0
+2026-06-18,1649,Detergent 3kg,8,1100,700.0,CleanCo,40,0
+2026-06-19,1650,Detergent 3kg,9,1100,700.0,CleanCo,31,0
+2026-06-20,1651,Detergent 3kg,9,1100,700.0,CleanCo,22,1
+2026-06-21,1652,Detergent 3kg,9,1100,700.0,CleanCo,13,0
+2026-06-22,1653,Detergent 3kg,7,1100,700.0,CleanCo,6,0
+2026-06-23,1654,Detergent 3kg,2,1100,700.0,CleanCo,244,0
+2026-06-24,1655,Detergent 3kg,9,1100,700.0,CleanCo,235,0
+2026-06-25,1656,Detergent 3kg,4,1100,700.0,CleanCo,231,0
+2026-06-26,1657,Detergent 3kg,7,1100,700.0,CleanCo,224,1
+2026-06-27,1658,Detergent 3kg,4,1100,700.0,CleanCo,220,0
+2026-06-28,1659,Detergent 3kg,3,1100,700.0,CleanCo,217,0
+2026-06-29,1660,Detergent 3kg,1,1100,700.0,CleanCo,216,0
+2026-06-30,1661,Detergent 3kg,7,1100,700.0,CleanCo,209,0
+2026-07-01,1662,Detergent 3kg,6,1100,700.0,CleanCo,203,0
+2026-07-02,1663,Detergent 3kg,6,1100,700.0,CleanCo,197,0
+2026-07-03,1664,Detergent 3kg,8,1100,700.0,CleanCo,189,0
+2026-07-04,1665,Detergent 3kg,4,1100,700.0,CleanCo,185,0
+2026-07-05,1666,Detergent 3kg,5,1100,700.0,CleanCo,180,0
+2026-07-06,1667,Detergent 3kg,11,1100,700.0,CleanCo,169,0
+2026-07-07,1668,Detergent 3kg,9,1100,700.0,CleanCo,160,0
+2026-07-08,1669,Detergent 3kg,5,1100,700.0,CleanCo,155,0
+2026-07-09,1670,Detergent 3kg,8,1100,700.0,CleanCo,147,0
+2026-07-10,1671,Detergent 3kg,8,1100,700.0,CleanCo,139,0
+2026-07-11,1672,Detergent 3kg,0,1100,700.0,CleanCo,139,0
+2026-07-12,1673,Detergent 3kg,6,1100,700.0,CleanCo,133,1
+2026-07-13,1674,Detergent 3kg,4,1100,700.0,CleanCo,129,0
+2026-07-14,1675,Detergent 3kg,5,1100,700.0,CleanCo,124,0
+2026-07-15,1676,Detergent 3kg,9,1100,700.0,CleanCo,115,1
+2026-07-16,1677,Detergent 3kg,1,1100,700.0,CleanCo,114,0
+2026-07-17,1678,Detergent 3kg,7,1100,700.0,CleanCo,107,0
+2026-07-18,1679,Detergent 3kg,3,1100,700.0,CleanCo,104,0
+2026-07-19,1680,Detergent 3kg,7,1100,700.0,CleanCo,97,0
+2026-07-20,1681,Detergent 3kg,5,1100,700.0,CleanCo,92,0
+2026-07-21,1682,Detergent 3kg,5,1100,700.0,CleanCo,87,0
+2026-07-22,1683,Detergent 3kg,3,1100,700.0,CleanCo,84,0
+2026-07-23,1684,Detergent 3kg,4,1100,700.0,CleanCo,80,0
+2026-07-24,1685,Detergent 3kg,6,1100,700.0,CleanCo,74,0
+2026-07-25,1686,Detergent 3kg,20,1100,700.0,CleanCo,54,0
+2026-07-26,1687,Detergent 3kg,5,1100,700.0,CleanCo,49,0
+2026-07-27,1688,Detergent 3kg,8,1100,700.0,CleanCo,41,0
+2026-07-28,1689,Detergent 3kg,5,1100,700.0,CleanCo,36,0
+2026-07-29,1690,Detergent 3kg,5,1100,700.0,CleanCo,31,0
+2026-07-30,1691,Detergent 3kg,10,1100,700.0,CleanCo,21,0
+2026-07-31,1692,Detergent 3kg,8,1100,700.0,CleanCo,13,0
+2026-08-01,1693,Detergent 3kg,6,1100,700.0,CleanCo,247,0
+2026-08-02,1694,Detergent 3kg,7,1100,700.0,CleanCo,240,0
+2026-08-03,1695,Detergent 3kg,3,1100,700.0,CleanCo,237,0
+2026-08-04,1696,Detergent 3kg,5,1100,700.0,CleanCo,232,0
+2026-08-05,1697,Detergent 3kg,5,1100,700.0,CleanCo,227,1
+2026-08-06,1698,Detergent 3kg,7,1100,700.0,CleanCo,220,0
+2026-08-07,1699,Detergent 3kg,10,1100,700.0,CleanCo,210,0
+2026-08-08,1700,Detergent 3kg,4,1100,700.0,CleanCo,206,0
+2026-08-09,1701,Detergent 3kg,6,1100,700.0,CleanCo,200,0
+2026-08-10,1702,Detergent 3kg,4,1100,700.0,CleanCo,196,0
+2026-08-11,1703,Detergent 3kg,7,1100,700.0,CleanCo,189,0
+2026-08-12,1704,Detergent 3kg,3,1100,700.0,CleanCo,186,0
+2026-08-13,1705,Detergent 3kg,4,1100,700.0,CleanCo,182,0
+2026-08-14,1706,Detergent 3kg,3,1100,700.0,CleanCo,179,0
+2026-08-15,1707,Detergent 3kg,4,1100,700.0,CleanCo,175,0
+2026-08-16,1708,Detergent 3kg,9,1100,700.0,CleanCo,166,1
+2026-08-17,1709,Detergent 3kg,2,1100,700.0,CleanCo,164,0
+2026-08-18,1710,Detergent 3kg,2,1100,700.0,CleanCo,162,0
+2026-08-19,1711,Detergent 3kg,2,1100,700.0,CleanCo,160,1
+2026-08-20,1712,Detergent 3kg,4,1100,700.0,CleanCo,156,0
+2026-08-21,1713,Detergent 3kg,3,1100,700.0,CleanCo,153,0
+2026-08-22,1714,Detergent 3kg,2,1100,700.0,CleanCo,151,0
+2026-08-23,1715,Detergent 3kg,2,1100,700.0,CleanCo,149,0
+2026-08-24,1716,Detergent 3kg,3,1100,700.0,CleanCo,146,0
+2026-08-25,1717,Detergent 3kg,3,1100,700.0,CleanCo,143,0
+2026-08-26,1718,Detergent 3kg,2,1100,700.0,CleanCo,141,0
+2026-08-27,1719,Detergent 3kg,5,1100,700.0,CleanCo,136,0
+2026-08-28,1720,Detergent 3kg,4,1100,700.0,CleanCo,132,0
+2026-05-01,1721,Fresh Pasta,7,300,120.0,Sahel Foods,53,1
+2026-05-02,1722,Fresh Pasta,19,300,120.0,Sahel Foods,34,0
+2026-05-03,1723,Fresh Pasta,16,300,120.0,Sahel Foods,18,0
+2026-05-04,1724,Fresh Pasta,9,300,120.0,Sahel Foods,9,1
+2026-05-05,1725,Fresh Pasta,8,300,120.0,Sahel Foods,1,0
+2026-05-06,1726,Fresh Pasta,1,300,120.0,Sahel Foods,0,0
+2026-05-07,1727,Fresh Pasta,5,300,120.0,Sahel Foods,25,0
+2026-05-08,1728,Fresh Pasta,14,300,120.0,Sahel Foods,11,0
+2026-05-09,1729,Fresh Pasta,11,300,120.0,Sahel Foods,0,0
+2026-05-10,1730,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-11,1731,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-12,1732,Fresh Pasta,13,300,120.0,Sahel Foods,17,2
+2026-05-13,1733,Fresh Pasta,8,300,120.0,Sahel Foods,9,0
+2026-05-14,1734,Fresh Pasta,9,300,120.0,Sahel Foods,0,1
+2026-05-15,1735,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-16,1736,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-17,1737,Fresh Pasta,18,300,120.0,Sahel Foods,12,0
+2026-05-18,1738,Fresh Pasta,12,300,120.0,Sahel Foods,0,1
+2026-05-19,1739,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-20,1740,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-21,1741,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-22,1742,Fresh Pasta,15,300,120.0,Sahel Foods,15,0
+2026-05-23,1743,Fresh Pasta,15,300,120.0,Sahel Foods,0,3
+2026-05-24,1744,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-25,1745,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-26,1746,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-27,1747,Fresh Pasta,10,300,120.0,Sahel Foods,20,0
+2026-05-28,1748,Fresh Pasta,13,300,120.0,Sahel Foods,7,0
+2026-05-29,1749,Fresh Pasta,7,300,120.0,Sahel Foods,0,0
+2026-05-30,1750,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-31,1751,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-01,1752,Fresh Pasta,13,300,120.0,Sahel Foods,17,0
+2026-06-02,1753,Fresh Pasta,13,300,120.0,Sahel Foods,4,0
+2026-06-03,1754,Fresh Pasta,4,300,120.0,Sahel Foods,0,0
+2026-06-04,1755,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-05,1756,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-06,1757,Fresh Pasta,12,300,120.0,Sahel Foods,18,0
+2026-06-07,1758,Fresh Pasta,18,300,120.0,Sahel Foods,0,0
+2026-06-08,1759,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-09,1760,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-10,1761,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-11,1762,Fresh Pasta,9,300,120.0,Sahel Foods,21,0
+2026-06-12,1763,Fresh Pasta,12,300,120.0,Sahel Foods,9,0
+2026-06-13,1764,Fresh Pasta,9,300,120.0,Sahel Foods,0,0
+2026-06-14,1765,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-15,1766,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-16,1767,Fresh Pasta,19,300,120.0,Sahel Foods,11,0
+2026-06-17,1768,Fresh Pasta,11,300,120.0,Sahel Foods,0,0
+2026-06-18,1769,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-19,1770,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-20,1771,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-21,1772,Fresh Pasta,12,300,120.0,Sahel Foods,18,0
+2026-06-22,1773,Fresh Pasta,14,300,120.0,Sahel Foods,4,2
+2026-06-23,1774,Fresh Pasta,4,300,120.0,Sahel Foods,0,0
+2026-06-24,1775,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-25,1776,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-26,1777,Fresh Pasta,18,300,120.0,Sahel Foods,12,0
+2026-06-27,1778,Fresh Pasta,12,300,120.0,Sahel Foods,0,0
+2026-06-28,1779,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-29,1780,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-06-30,1781,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-01,1782,Fresh Pasta,9,300,120.0,Sahel Foods,21,0
+2026-07-02,1783,Fresh Pasta,12,300,120.0,Sahel Foods,9,0
+2026-07-03,1784,Fresh Pasta,9,300,120.0,Sahel Foods,0,0
+2026-07-04,1785,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-05,1786,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-06,1787,Fresh Pasta,11,300,120.0,Sahel Foods,19,1
+2026-07-07,1788,Fresh Pasta,8,300,120.0,Sahel Foods,11,0
+2026-07-08,1789,Fresh Pasta,11,300,120.0,Sahel Foods,0,0
+2026-07-09,1790,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-10,1791,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-11,1792,Fresh Pasta,22,300,120.0,Sahel Foods,8,1
+2026-07-12,1793,Fresh Pasta,6,300,120.0,Sahel Foods,2,0
+2026-07-13,1794,Fresh Pasta,2,300,120.0,Sahel Foods,0,0
+2026-07-14,1795,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-15,1796,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-16,1797,Fresh Pasta,12,300,120.0,Sahel Foods,18,0
+2026-07-17,1798,Fresh Pasta,14,300,120.0,Sahel Foods,4,0
+2026-07-18,1799,Fresh Pasta,4,300,120.0,Sahel Foods,0,0
+2026-07-19,1800,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-20,1801,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-21,1802,Fresh Pasta,10,300,120.0,Sahel Foods,20,0
+2026-07-22,1803,Fresh Pasta,12,300,120.0,Sahel Foods,8,0
+2026-07-23,1804,Fresh Pasta,8,300,120.0,Sahel Foods,0,0
+2026-07-24,1805,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-25,1806,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-26,1807,Fresh Pasta,14,300,120.0,Sahel Foods,16,1
+2026-07-27,1808,Fresh Pasta,9,300,120.0,Sahel Foods,7,0
+2026-07-28,1809,Fresh Pasta,7,300,120.0,Sahel Foods,0,0
+2026-07-29,1810,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-30,1811,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-07-31,1812,Fresh Pasta,12,300,120.0,Sahel Foods,18,0
+2026-08-01,1813,Fresh Pasta,10,300,120.0,Sahel Foods,8,0
+2026-08-02,1814,Fresh Pasta,8,300,120.0,Sahel Foods,0,0
+2026-08-03,1815,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-04,1816,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-05,1817,Fresh Pasta,9,300,120.0,Sahel Foods,21,0
+2026-08-06,1818,Fresh Pasta,9,300,120.0,Sahel Foods,12,0
+2026-08-07,1819,Fresh Pasta,12,300,120.0,Sahel Foods,0,1
+2026-08-08,1820,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-09,1821,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-10,1822,Fresh Pasta,12,300,120.0,Sahel Foods,18,0
+2026-08-11,1823,Fresh Pasta,8,300,120.0,Sahel Foods,10,0
+2026-08-12,1824,Fresh Pasta,10,300,120.0,Sahel Foods,0,0
+2026-08-13,1825,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-14,1826,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-15,1827,Fresh Pasta,7,300,120.0,Sahel Foods,23,0
+2026-08-16,1828,Fresh Pasta,17,300,120.0,Sahel Foods,6,0
+2026-08-17,1829,Fresh Pasta,6,300,120.0,Sahel Foods,0,0
+2026-08-18,1830,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-19,1831,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-20,1832,Fresh Pasta,17,300,120.0,Sahel Foods,13,0
+2026-08-21,1833,Fresh Pasta,6,300,120.0,Sahel Foods,7,0
+2026-08-22,1834,Fresh Pasta,7,300,120.0,Sahel Foods,0,0
+2026-08-23,1835,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-24,1836,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-08-25,1837,Fresh Pasta,12,300,120.0,Sahel Foods,18,0
+2026-08-26,1838,Fresh Pasta,11,300,120.0,Sahel Foods,7,0
+2026-08-27,1839,Fresh Pasta,7,300,120.0,Sahel Foods,0,0
+2026-08-28,1840,Fresh Pasta,0,300,120.0,Sahel Foods,0,0
+2026-05-01,1841,Chocolate Bar,32,220,150.0,Aroma Import,168,0
+2026-05-02,1842,Chocolate Bar,21,220,150.0,Aroma Import,147,1
+2026-05-03,1843,Chocolate Bar,26,220,150.0,Aroma Import,121,0
+2026-05-04,1844,Chocolate Bar,12,220,150.0,Aroma Import,109,1
+2026-05-05,1845,Chocolate Bar,9,220,150.0,Aroma Import,100,0
+2026-05-06,1846,Chocolate Bar,9,220,150.0,Aroma Import,91,2
+2026-05-07,1847,Chocolate Bar,13,220,150.0,Aroma Import,78,1
+2026-05-08,1848,Chocolate Bar,22,220,150.0,Aroma Import,56,1
+2026-05-09,1849,Chocolate Bar,28,220,150.0,Aroma Import,28,0
+2026-05-10,1850,Chocolate Bar,28,220,150.0,Aroma Import,0,1
+2026-05-11,1851,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-05-12,1852,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-05-13,1853,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-05-14,1854,Chocolate Bar,22,220,150.0,Aroma Import,278,0
+2026-05-15,1855,Chocolate Bar,22,220,150.0,Aroma Import,256,0
+2026-05-16,1856,Chocolate Bar,23,220,150.0,Aroma Import,233,1
+2026-05-17,1857,Chocolate Bar,20,220,150.0,Aroma Import,213,1
+2026-05-18,1858,Chocolate Bar,11,220,150.0,Aroma Import,202,0
+2026-05-19,1859,Chocolate Bar,14,220,150.0,Aroma Import,188,1
+2026-05-20,1860,Chocolate Bar,13,220,150.0,Aroma Import,175,0
+2026-05-21,1861,Chocolate Bar,14,220,150.0,Aroma Import,161,0
+2026-05-22,1862,Chocolate Bar,23,220,150.0,Aroma Import,138,1
+2026-05-23,1863,Chocolate Bar,29,220,150.0,Aroma Import,109,0
+2026-05-24,1864,Chocolate Bar,29,220,150.0,Aroma Import,80,2
+2026-05-25,1865,Chocolate Bar,12,220,150.0,Aroma Import,68,1
+2026-05-26,1866,Chocolate Bar,14,220,150.0,Aroma Import,54,0
+2026-05-27,1867,Chocolate Bar,19,220,150.0,Aroma Import,35,1
+2026-05-28,1868,Chocolate Bar,20,220,150.0,Aroma Import,15,1
+2026-05-29,1869,Chocolate Bar,15,220,150.0,Aroma Import,0,0
+2026-05-30,1870,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-05-31,1871,Chocolate Bar,19,220,150.0,Aroma Import,281,1
+2026-06-01,1872,Chocolate Bar,17,220,150.0,Aroma Import,264,0
+2026-06-02,1873,Chocolate Bar,16,220,150.0,Aroma Import,248,1
+2026-06-03,1874,Chocolate Bar,15,220,150.0,Aroma Import,233,1
+2026-06-04,1875,Chocolate Bar,17,220,150.0,Aroma Import,216,0
+2026-06-05,1876,Chocolate Bar,27,220,150.0,Aroma Import,189,3
+2026-06-06,1877,Chocolate Bar,21,220,150.0,Aroma Import,168,0
+2026-06-07,1878,Chocolate Bar,25,220,150.0,Aroma Import,143,1
+2026-06-08,1879,Chocolate Bar,18,220,150.0,Aroma Import,125,1
+2026-06-09,1880,Chocolate Bar,13,220,150.0,Aroma Import,112,0
+2026-06-10,1881,Chocolate Bar,16,220,150.0,Aroma Import,96,1
+2026-06-11,1882,Chocolate Bar,12,220,150.0,Aroma Import,84,0
+2026-06-12,1883,Chocolate Bar,22,220,150.0,Aroma Import,62,1
+2026-06-13,1884,Chocolate Bar,29,220,150.0,Aroma Import,33,1
+2026-06-14,1885,Chocolate Bar,16,220,150.0,Aroma Import,17,1
+2026-06-15,1886,Chocolate Bar,17,220,150.0,Aroma Import,0,1
+2026-06-16,1887,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-06-17,1888,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-06-18,1889,Chocolate Bar,16,220,150.0,Aroma Import,284,0
+2026-06-19,1890,Chocolate Bar,30,220,150.0,Aroma Import,254,1
+2026-06-20,1891,Chocolate Bar,30,220,150.0,Aroma Import,224,5
+2026-06-21,1892,Chocolate Bar,20,220,150.0,Aroma Import,204,1
+2026-06-22,1893,Chocolate Bar,16,220,150.0,Aroma Import,188,0
+2026-06-23,1894,Chocolate Bar,16,220,150.0,Aroma Import,172,0
+2026-06-24,1895,Chocolate Bar,16,220,150.0,Aroma Import,156,1
+2026-06-25,1896,Chocolate Bar,16,220,150.0,Aroma Import,140,2
+2026-06-26,1897,Chocolate Bar,33,220,150.0,Aroma Import,107,8
+2026-06-27,1898,Chocolate Bar,28,220,150.0,Aroma Import,79,1
+2026-06-28,1899,Chocolate Bar,16,220,150.0,Aroma Import,63,0
+2026-06-29,1900,Chocolate Bar,18,220,150.0,Aroma Import,45,2
+2026-06-30,1901,Chocolate Bar,15,220,150.0,Aroma Import,30,0
+2026-07-01,1902,Chocolate Bar,23,220,150.0,Aroma Import,7,1
+2026-07-02,1903,Chocolate Bar,7,220,150.0,Aroma Import,0,1
+2026-07-03,1904,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-07-04,1905,Chocolate Bar,16,220,150.0,Aroma Import,284,1
+2026-07-05,1906,Chocolate Bar,22,220,150.0,Aroma Import,262,2
+2026-07-06,1907,Chocolate Bar,13,220,150.0,Aroma Import,249,2
+2026-07-07,1908,Chocolate Bar,20,220,150.0,Aroma Import,229,2
+2026-07-08,1909,Chocolate Bar,13,220,150.0,Aroma Import,216,0
+2026-07-09,1910,Chocolate Bar,10,220,150.0,Aroma Import,206,0
+2026-07-10,1911,Chocolate Bar,28,220,150.0,Aroma Import,178,0
+2026-07-11,1912,Chocolate Bar,24,220,150.0,Aroma Import,154,3
+2026-07-12,1913,Chocolate Bar,21,220,150.0,Aroma Import,133,1
+2026-07-13,1914,Chocolate Bar,16,220,150.0,Aroma Import,117,1
+2026-07-14,1915,Chocolate Bar,16,220,150.0,Aroma Import,101,0
+2026-07-15,1916,Chocolate Bar,14,220,150.0,Aroma Import,87,1
+2026-07-16,1917,Chocolate Bar,21,220,150.0,Aroma Import,66,2
+2026-07-17,1918,Chocolate Bar,26,220,150.0,Aroma Import,40,0
+2026-07-18,1919,Chocolate Bar,23,220,150.0,Aroma Import,17,2
+2026-07-19,1920,Chocolate Bar,17,220,150.0,Aroma Import,0,2
+2026-07-20,1921,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-07-21,1922,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-07-22,1923,Chocolate Bar,15,220,150.0,Aroma Import,285,4
+2026-07-23,1924,Chocolate Bar,5,220,150.0,Aroma Import,280,0
+2026-07-24,1925,Chocolate Bar,22,220,150.0,Aroma Import,258,4
+2026-07-25,1926,Chocolate Bar,74,220,150.0,Aroma Import,184,3
+2026-07-26,1927,Chocolate Bar,27,220,150.0,Aroma Import,157,1
+2026-07-27,1928,Chocolate Bar,20,220,150.0,Aroma Import,137,3
+2026-07-28,1929,Chocolate Bar,16,220,150.0,Aroma Import,121,3
+2026-07-29,1930,Chocolate Bar,7,220,150.0,Aroma Import,114,0
+2026-07-30,1931,Chocolate Bar,15,220,150.0,Aroma Import,99,1
+2026-07-31,1932,Chocolate Bar,24,220,150.0,Aroma Import,75,2
+2026-08-01,1933,Chocolate Bar,33,220,150.0,Aroma Import,42,7
+2026-08-02,1934,Chocolate Bar,25,220,150.0,Aroma Import,17,6
+2026-08-03,1935,Chocolate Bar,16,220,150.0,Aroma Import,1,1
+2026-08-04,1936,Chocolate Bar,1,220,150.0,Aroma Import,0,0
+2026-08-05,1937,Chocolate Bar,0,220,150.0,Aroma Import,0,0
+2026-08-06,1938,Chocolate Bar,21,220,150.0,Aroma Import,279,3
+2026-08-07,1939,Chocolate Bar,33,220,150.0,Aroma Import,246,3
+2026-08-08,1940,Chocolate Bar,26,220,150.0,Aroma Import,220,2
+2026-08-09,1941,Chocolate Bar,21,220,150.0,Aroma Import,199,3
+2026-08-10,1942,Chocolate Bar,13,220,150.0,Aroma Import,186,0
+2026-08-11,1943,Chocolate Bar,15,220,150.0,Aroma Import,171,2
+2026-08-12,1944,Chocolate Bar,22,220,150.0,Aroma Import,149,4
+2026-08-13,1945,Chocolate Bar,14,220,150.0,Aroma Import,135,0
+2026-08-14,1946,Chocolate Bar,33,220,150.0,Aroma Import,102,5
+2026-08-15,1947,Chocolate Bar,21,220,150.0,Aroma Import,81,3
+2026-08-16,1948,Chocolate Bar,20,220,150.0,Aroma Import,61,4
+2026-08-17,1949,Chocolate Bar,11,220,150.0,Aroma Import,50,0
+2026-08-18,1950,Chocolate Bar,11,220,150.0,Aroma Import,39,1
+2026-08-19,1951,Chocolate Bar,19,220,150.0,Aroma Import,20,2
+2026-08-20,1952,Chocolate Bar,18,220,150.0,Aroma Import,2,3
+2026-08-21,1953,Chocolate Bar,2,220,150.0,Aroma Import,0,1
+2026-08-22,1954,Chocolate Bar,22,220,150.0,Aroma Import,278,5
+2026-08-23,1955,Chocolate Bar,21,220,150.0,Aroma Import,257,2
+2026-08-24,1956,Chocolate Bar,9,220,150.0,Aroma Import,248,2
+2026-08-25,1957,Chocolate Bar,15,220,150.0,Aroma Import,233,2
+2026-08-26,1958,Chocolate Bar,20,220,150.0,Aroma Import,213,2
+2026-08-27,1959,Chocolate Bar,16,220,150.0,Aroma Import,197,1
+2026-08-28,1960,Chocolate Bar,17,220,150.0,Aroma Import,180,4
